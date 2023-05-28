@@ -1,14 +1,10 @@
 # Chef_Zombies
-https://i1.sndcdn.com/artworks-kHMR0G2fywqsgUsj-Dps0Ng-t500x500.jpg
-
 
 move around using arrow keys
 
 e and g to interact with shit
 
 f to melee attack
-
-https://i1.sndcdn.com/artworks-kHMR0G2fywqsgUsj-Dps0Ng-t500x500.jpg
 
 ![image](https://github.com/CharlizeSerrano5/Chef_Zombies/assets/33241511/1d0d51c8-37a0-425b-9c19-b1ffec09c6be)
 
